@@ -1,4 +1,4 @@
-# 10-Team-Profile-Generator
+# 10-Employee-Manager
 
 ## Description
 Node Terminal Interface, used to manage employee information.
